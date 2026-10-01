@@ -1,0 +1,35 @@
+transaction_id,rule,evidence,priority,suggested_check
+TX0010,Nguong nghiep vu (Cash lon),"amount=13064.01, payment_method=Cash, nguong=10000.00",High,Yeu cau bien lai/chung tu thu chi tien mat va xac minh nguoi nhan/nguoi chi
+TX0036,Nguong nghiep vu (Cash lon),"amount=13628.59, payment_method=Cash, nguong=10000.00",High,Yeu cau bien lai/chung tu thu chi tien mat va xac minh nguoi nhan/nguoi chi
+TX0037,IQR outlier (theo type),"amount=81601.44, type=Revenue, nguong tren=22155.53 (Q1=4025.30, Q3=11277.39, IQR=7252.09)",High,Doi chieu chung tu goc va nguoi phe duyet cho giao dich gia tri bat thuong
+TX0079,Nguong nghiep vu (Cash lon),"amount=13217.06, payment_method=Cash, nguong=10000.00",High,Yeu cau bien lai/chung tu thu chi tien mat va xac minh nguoi nhan/nguoi chi
+TX0121,IQR outlier (theo type),"amount=92960.16, type=Revenue, nguong tren=22155.53 (Q1=4025.30, Q3=11277.39, IQR=7252.09)",High,Doi chieu chung tu goc va nguoi phe duyet cho giao dich gia tri bat thuong
+TX0152,Nguong nghiep vu (Cash lon),"amount=13673.31, payment_method=Cash, nguong=10000.00",High,Yeu cau bien lai/chung tu thu chi tien mat va xac minh nguoi nhan/nguoi chi
+TX0174,Nguong nghiep vu (Cash lon),"amount=13272.28, payment_method=Cash, nguong=10000.00",High,Yeu cau bien lai/chung tu thu chi tien mat va xac minh nguoi nhan/nguoi chi
+TX0003,Trung ngay+phong ban+loai,"date=2026-02-17, department=Operations, type=Revenue, amount=7827.65, cung nhom voi TX0177 (7190.99)",Medium,Xac minh day co phai hai but toan doc lap hay mot giao dich bi tach/ghi lap hai lan
+TX0004,Trung ngay+phong ban+loai,"date=2026-04-12, department=IT, type=Revenue, amount=7013.53, cung nhom voi TX0159 (8396.15)",Medium,Xac minh day co phai hai but toan doc lap hay mot giao dich bi tach/ghi lap hai lan
+TX0038,Nguong nghiep vu (Cash lon),"amount=11876.98, payment_method=Cash, nguong=10000.00",Medium,Yeu cau bien lai/chung tu thu chi tien mat va xac minh nguoi nhan/nguoi chi
+TX0039,Nguong nghiep vu (Cash lon),"amount=10055.25, payment_method=Cash, nguong=10000.00",Medium,Yeu cau bien lai/chung tu thu chi tien mat va xac minh nguoi nhan/nguoi chi
+TX0048,Nguong nghiep vu (Cash lon),"amount=10097.13, payment_method=Cash, nguong=10000.00",Medium,Yeu cau bien lai/chung tu thu chi tien mat va xac minh nguoi nhan/nguoi chi
+TX0071,Nguong nghiep vu (Cash lon),"amount=10170.53, payment_method=Cash, nguong=10000.00",Medium,Yeu cau bien lai/chung tu thu chi tien mat va xac minh nguoi nhan/nguoi chi
+TX0073,Nguong nghiep vu (Cash lon),"amount=11180.18, payment_method=Cash, nguong=10000.00",Medium,Yeu cau bien lai/chung tu thu chi tien mat va xac minh nguoi nhan/nguoi chi
+TX0082,Trung ngay+phong ban+loai,"date=2026-03-01, department=IT, type=Expense, amount=3256.14, cung nhom voi TX0171 (12461.44)",Medium,Xac minh day co phai hai but toan doc lap hay mot giao dich bi tach/ghi lap hai lan
+TX0085,Nguong nghiep vu (Cash lon),"amount=10936.44, payment_method=Cash, nguong=10000.00",Medium,Yeu cau bien lai/chung tu thu chi tien mat va xac minh nguoi nhan/nguoi chi
+TX0091,Nguong nghiep vu (Cash lon),"amount=10053.34, payment_method=Cash, nguong=10000.00",Medium,Yeu cau bien lai/chung tu thu chi tien mat va xac minh nguoi nhan/nguoi chi
+TX0101,Nguong nghiep vu (Cash lon),"amount=11283.00, payment_method=Cash, nguong=10000.00",Medium,Yeu cau bien lai/chung tu thu chi tien mat va xac minh nguoi nhan/nguoi chi
+TX0102,Nguong nghiep vu (Cash lon),"amount=12678.01, payment_method=Cash, nguong=10000.00",Medium,Yeu cau bien lai/chung tu thu chi tien mat va xac minh nguoi nhan/nguoi chi
+TX0106,Trung ngay+phong ban+loai,"date=2026-03-20, department=Operations, type=Revenue, amount=6515.58, cung nhom voi TX0120 (7366.64)",Medium,Xac minh day co phai hai but toan doc lap hay mot giao dich bi tach/ghi lap hai lan
+TX0109,Nguong nghiep vu (Cash lon),"amount=12875.00, payment_method=Cash, nguong=10000.00",Medium,Yeu cau bien lai/chung tu thu chi tien mat va xac minh nguoi nhan/nguoi chi
+TX0111,Nguong nghiep vu (Cash lon),"amount=10198.67, payment_method=Cash, nguong=10000.00",Medium,Yeu cau bien lai/chung tu thu chi tien mat va xac minh nguoi nhan/nguoi chi
+TX0120,Trung ngay+phong ban+loai,"date=2026-03-20, department=Operations, type=Revenue, amount=7366.64, cung nhom voi TX0106 (6515.58)",Medium,Xac minh day co phai hai but toan doc lap hay mot giao dich bi tach/ghi lap hai lan
+TX0124,Nguong nghiep vu (Cash lon),"amount=10609.30, payment_method=Cash, nguong=10000.00",Medium,Yeu cau bien lai/chung tu thu chi tien mat va xac minh nguoi nhan/nguoi chi
+TX0134,Nguong nghiep vu (Cash lon),"amount=10667.16, payment_method=Cash, nguong=10000.00",Medium,Yeu cau bien lai/chung tu thu chi tien mat va xac minh nguoi nhan/nguoi chi
+TX0142,Nguong nghiep vu (Cash lon),"amount=11209.77, payment_method=Cash, nguong=10000.00",Medium,Yeu cau bien lai/chung tu thu chi tien mat va xac minh nguoi nhan/nguoi chi
+TX0143,Nguong nghiep vu (Cash lon),"amount=12573.11, payment_method=Cash, nguong=10000.00",Medium,Yeu cau bien lai/chung tu thu chi tien mat va xac minh nguoi nhan/nguoi chi
+TX0150,Nguong nghiep vu (Cash lon),"amount=12261.56, payment_method=Cash, nguong=10000.00",Medium,Yeu cau bien lai/chung tu thu chi tien mat va xac minh nguoi nhan/nguoi chi
+TX0156,Nguong nghiep vu (Cash lon),"amount=10495.88, payment_method=Cash, nguong=10000.00",Medium,Yeu cau bien lai/chung tu thu chi tien mat va xac minh nguoi nhan/nguoi chi
+TX0159,Trung ngay+phong ban+loai,"date=2026-04-12, department=IT, type=Revenue, amount=8396.15, cung nhom voi TX0004 (7013.53)",Medium,Xac minh day co phai hai but toan doc lap hay mot giao dich bi tach/ghi lap hai lan
+TX0168,Nguong nghiep vu (Cash lon),"amount=12937.13, payment_method=Cash, nguong=10000.00",Medium,Yeu cau bien lai/chung tu thu chi tien mat va xac minh nguoi nhan/nguoi chi
+TX0169,Nguong nghiep vu (Cash lon),"amount=10107.46, payment_method=Cash, nguong=10000.00",Medium,Yeu cau bien lai/chung tu thu chi tien mat va xac minh nguoi nhan/nguoi chi
+TX0171,Trung ngay+phong ban+loai,"date=2026-03-01, department=IT, type=Expense, amount=12461.44, cung nhom voi TX0082 (3256.14)",Medium,Xac minh day co phai hai but toan doc lap hay mot giao dich bi tach/ghi lap hai lan
+TX0177,Trung ngay+phong ban+loai,"date=2026-02-17, department=Operations, type=Revenue, amount=7190.99, cung nhom voi TX0003 (7827.65)",Medium,Xac minh day co phai hai but toan doc lap hay mot giao dich bi tach/ghi lap hai lan
